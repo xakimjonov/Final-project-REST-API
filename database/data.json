@@ -1,0 +1,209 @@
+{
+	"customers": [
+		{
+			"id": 6,
+			"firstname": "Aziz",
+			"lastname": "Xakimiy",
+			"email": "xakimiy.uzb@gmail.com",
+			"phone": "+15653293987485",
+			"date of birth": "10-02-2004",
+			"address": "767A King Street, Manchaster"
+		},
+		{
+			"id": 7,
+			"firstname": "Muhammed",
+			"lastname": "Ali",
+			"email": "ali.xan@gmail.com",
+			"phone": "+14345873465897",
+			"date of birth": "01-03-1999",
+			"address": "2234B Uolst Street, London"
+		},
+		{
+			"id": 8,
+			"firstname": "Todd",
+			"lastname": "Jodd",
+			"email": "jodd353@gmail.com",
+			"phone": "+1353675986143",
+			"date of birth": "20-07-1998",
+			"address": "234B Bridge Street, Liverpool"
+		},
+		{
+			"id": 1,
+			"firstname": "Alex",
+			"lastname": "Smith",
+			"email": "alex.smith@gmail.com",
+			"phone": "+17943352685",
+			"date of birth": "20-03-1995",
+			"address": "355C Uols Street, Birmingham",
+			"savedTime": "2022-08-11T16:32:36.536Z",
+			"updatedTime": "2022-08-11T16:33:10.606Z"
+		},
+		{
+			"id": 2,
+			"firstname": "Jeck",
+			"lastname": "Uolston",
+			"email": "jeckson@gmail.com",
+			"phone": "+18489259875",
+			"date of birth": "24-02-1999",
+			"address": "245B Fortune Street, London",
+			"savedTime": "2022-08-11T22:33:35.339Z"
+		},
+		{
+			"id": 3,
+			"firstname": "Oleg",
+			"lastname": "Koln",
+			"email": "oleg.koln@gmail.com",
+			"phone": "+150567849242",
+			"date of birth": "20-04-1998",
+			"address": "456A Vilson Street, London",
+			"savedTime": "2022-08-11T22:36:49.371Z",
+			"updatedTime": "2022-08-11T22:42:54.761Z"
+		},
+		{
+			"id": 4,
+			"firstname": "Angeline",
+			"lastname": "Jolie",
+			"email": "jolie43@gmail.com",
+			"phone": "+14248975235924",
+			"date of birth": "20-04-2000",
+			"address": "369D Baker Street, Manchaster",
+			"savedTime": "2022-08-11T23:05:13.788Z"
+		},
+		{
+			"id": 5,
+			"firstname": "Johnson",
+			"lastname": "Doll",
+			"email": "john.doll@gmail.com",
+			"phone": "+998987654321",
+			"date of birth": "20-04-1998",
+			"address": "221B Baker Street, London",
+			"savedTime": "2022-08-12T13:22:45.034Z",
+			"updatedTime": "2022-08-12T13:22:58.903Z"
+		}
+	],
+	"books": [
+		{
+			"id": 1,
+			"isbn": "978-0393058000",
+			"title": "Atomic Habits",
+			"gener": "Self-help ",
+			"description": "Atomic Habits is the definitive guide to breaking bad behaviors and adopting good ones in four steps, showing you how small, incremental, everyday routines compound into massive, positive change over time.",
+			"author": "James Clear",
+			"publish_year": 2018,
+			"cover_photo_url": "https://miro.medium.com/max/1200/1*tQszPBlBdi522xW1DnhwgQ.jpeg",
+			"savedTime": "Thu Aug 11 2022 11:37:15 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 2,
+			"isbn": "9786589711384",
+			"title": "Animal Farm",
+			"gener": "beast fable",
+			"description": "It tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and hservery. ",
+			"author": "George Orwell",
+			"publish_year": 1945,
+			"cover_photo_url": "https://slideplayer.com/6506679/22/images/slide_1.jpg ",
+			"savedTime": "Thu Aug 11 2022 19:21:32 GMT-0400 (Eastern Daylight Time)",
+			"updatedTime": "2022-08-11T23:21:56.837Z"
+		},
+		{
+			"id": 3,
+			"isbn": "689-985452363",
+			"title": "Story of the Titanik",
+			"gener": "romance",
+			"description": "This is the tragic story of the Titanic, the biggest and most luxurious ocean liner the world had ever seen, which sank on her maiden voyage in April 1912",
+			"author": "Eric Kentley",
+			"publish_year": 2001,
+			"cover_photo_url": "https://images-na.ssl-images-amazon.com/images/I/51gEvounYUL._SX418_BO1,204,203,200_.jpg",
+			"savedTime": "Thu Aug 11 2022 19:28:28 GMT-0400 (Eastern Daylight Time)",
+			"updatedTime": "2022-08-11T23:28:34.269Z"
+		},
+		{
+			"id": 4,
+			"isbn": "637-53692360254",
+			"title": "Twilght",
+			"gener": "novel, fantasy finction, romance novel",
+			"description": "young adult vampire-romance novel ",
+			"author": "Stephenie Meyer",
+			"publish_year": 2005,
+			"cover_photo_url": "https://images-na.ssl-images-amazon.com/images/I/71OwIzPjs7L.jpg",
+			"savedTime": "Thu Aug 11 2022 19:31:24 GMT-0400 (Eastern Daylight Time)"
+		},
+		{
+			"id": 5,
+			"isbn": "534-72387252",
+			"title": "Ugly Love",
+			"gener": "Novel, Romance novel, Fiction",
+			"description": "a heart-wrenching love story that proves attraction at first sight can be messy.",
+			"author": "Colleen Hoover",
+			"publish_year": 2014,
+			"cover_photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjTrrZwyq9BkgWzxtjpB2chPjEC8nGz-5MUpj5HbQmSqIEM7gdul4Kl2g8&s=5",
+			"savedTime": "Fri Aug 12 2022 09:24:23 GMT-0400 (Eastern Daylight Time)"
+		}
+	],
+	"rental_info": [
+		{
+			"customer_id": 1,
+			"book_id": 1,
+			"booked_day": "2022-08-02",
+			"returned_day": "2022-09-26",
+			"created_at": "2022-03-26T09:08:44.000000Z",
+			"updated_at": "2022-03-26T09:08:44.000000Z"
+		},
+		{
+			"customer_id": 8,
+			"book_id": 2,
+			"booked_time": "2022-08-11T18:54:19.279Z",
+			"returned_time": "2022-08-12T00:05:31.494Z",
+			"savedTime": "2022-08-11T18:54:19.279Z",
+			"update_time": "2022-08-12T00:05:31.495Z"
+		},
+		{
+			"customer_id": 3,
+			"book_id": 6,
+			"booked_time": "2022-08-11T23:36:04.375Z",
+			"returned_time": "",
+			"savedTime": "2022-08-11T23:36:04.375Z",
+			"update_time": ""
+		},
+		{
+			"customer_id": 2,
+			"book_id": 3,
+			"booked_time": "2022-08-11T23:37:15.432Z",
+			"returned_time": "",
+			"savedTime": "2022-08-11T23:37:15.432Z",
+			"update_time": ""
+		},
+		{
+			"customer_id": 3,
+			"book_id": 4,
+			"booked_time": "2022-08-11T23:47:32.603Z",
+			"returned_time": "2022-08-12T00:01:39.098Z",
+			"savedTime": "2022-08-11T23:47:32.603Z",
+			"update_time": ""
+		},
+		{
+			"customer_id": 6,
+			"book_id": 2,
+			"booked_time": "2022-08-12T00:03:20.667Z",
+			"returned_time": "2022-08-12T00:03:50.739Z",
+			"savedTime": "2022-08-12T00:03:20.667Z",
+			"update_time": "2022-08-12T00:03:50.739Z"
+		},
+		{
+			"customer_id": 6,
+			"book_id": 7,
+			"booked_time": "2022-08-12T13:25:54.483Z",
+			"returned_time": "",
+			"savedTime": "2022-08-12T13:25:54.483Z",
+			"update_time": ""
+		},
+		{
+			"customer_id": 6,
+			"book_id": 4,
+			"booked_time": "2022-08-12T13:26:04.163Z",
+			"returned_time": "2022-08-12T13:28:52.204Z",
+			"savedTime": "2022-08-12T13:26:04.163Z",
+			"update_time": "2022-08-12T13:28:52.204Z"
+		}
+	]
+}

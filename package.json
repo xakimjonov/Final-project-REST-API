@@ -1,0 +1,14 @@
+{
+  "name": "final_projrct",
+  "version": "1.0.0",
+  "description": "final_project",
+  "main": "1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azizbek Xakimjonov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
